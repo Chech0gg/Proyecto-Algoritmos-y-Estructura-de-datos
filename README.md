@@ -19,6 +19,8 @@ Entrega 2/codigo entrega 2/
     proyectosergiorios/            módulos de Sergio, uno por tema
     proyrctojuanruiz/              sistema de Juan
     Tabla_de_complejidad_Acompanamiento_Academico.xlsx
+    Diagrama de clases
+    imagen codacy proyecto
 ```
 
 ## Cómo ejecutar
